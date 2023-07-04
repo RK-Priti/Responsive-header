@@ -56,7 +56,7 @@ header{
 @media screen and (max-width: 1161px) {
    header{
     width: 100%;
-    height:17vh;
+    height:11vh;
     background-color: pink;
    }
    nav{
